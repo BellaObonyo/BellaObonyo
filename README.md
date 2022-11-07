@@ -2,9 +2,9 @@
 
 👀 Experienced in Python,Django,Angular js, HTML 5, Boostrap 3,Tailwind css, CSS3, Javascript.
 
-🌱 I’m currently learning  Java, React, Laravel Ruby and Ruby on Rails.
+🌱 I’m currently learning  Php, Java, React, Ruby and Ruby on Rails.
 
-💞️ I’m looking to collaborate on Both fronted projects 
+💞️ I’m looking to collaborate on fronted projects 
 
 📫 Reach me on: cynthiabella.obonyo@gmail.com
 
