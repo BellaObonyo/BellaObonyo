@@ -1,6 +1,6 @@
 👋 Hi, I’m @BellaObonyo, Fullstack Developer, UI/UX designer based in Kenya.
 
-👀 Experienced in Python,Django,Angular js, HTML 5, Boostrap 3,Tailwind css, CSS3, Javascript.
+👀 Experienced in Python,Django,Angular js, HTML 5, Boostrap 3, Javascript.
 
 🌱 I’m currently learning  Php, Java, React, Ruby and Ruby on Rails.
 
