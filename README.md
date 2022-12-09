@@ -2,7 +2,7 @@
 
 👀 Experienced in Python, Django, ReactNative, Angular js, HTML 5, Boostrap 3, Javascript.
 
-🌱 I’m currently learning  Flutter, Java, ReactJS and Ruby on Rails.
+🌱 I’m currently learning Databases, Flutter, Java, ReactJS and Ruby on Rails.
 
 💞️ I’m looking to collaborate on fronted projects 
 
