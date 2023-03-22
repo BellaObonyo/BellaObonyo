@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cynthia Bella Obonyo
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Cynthia Obonyo
 ============================================================================================================================================
 
 Frontend developer && UI Researcher
 ---------------------------------------
 
- I am experienced in Python, Django, ReactJS, Angular Js, HTML5, Boostrap3 and Javascript.
+ I am experienced in Python, Django, React, Angular, Javascript and Flutter.
 
 * 🌍  I'm based in Nairobi, KENYA.
 * ✉️  You can contact me at [cynthiabella.obonyo@gmail.com](mailto:cynthiabella.obonyo@gmail.com)
-* 🧠  I'm learning Databases, Flutter, Java, ReactNative and UI design.
+* 🧠  I'm learning Databases, Java, ReactNative and UI wireframing.
 * 🤝  I'm open to collaborating on Open source and fronted projects.
 * ⚡  Passion is the fire that lights my way.
 
