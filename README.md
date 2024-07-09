@@ -10,7 +10,7 @@ Frontend developer && UI Researcher
 * ✉️  You can contact me at [cynthiabella.obonyo@gmail.com](mailto:cynthiabella.obonyo@gmail.com)
 * 🧠  I'm learning Databases, Java, ReactNative and UI wireframing.
 * 🤝  I'm open to collaborating on Open source and fronted projects.
-* ⚡  Passion is the fire that lights my way.
+
 
 <!---
 BellaObonyo/BellaObonyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
