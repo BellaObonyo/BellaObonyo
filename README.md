@@ -9,7 +9,7 @@ Software developer && UI Researcher
 * 🌍  I'm based in Nairobi, KENYA.
 * ✉️  You can contact me at [cynthiabella.obonyo@gmail.com](mailto:cynthiabella.obonyo@gmail.com)
 * 🧠  I'm learning Databases, Java, ReactNative and UI wireframing.
-* 🤝  I'm open to collaborating on Open source and fronted projects.
+* 🤝  I'm open to collaborating on Open source and projects.
 
 
 <!---
