@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer && UI Researcher
 ---------------------------------------
 
- I am experienced in Python, Django, React, Angular and Javascript.
+Just a human fueled by curiosity, here to share my journey in coding, and development while growing through 
+collaboration and community support.
 
+* 🤗  Let's chat about Tech
 * 🌍  I'm based in Nairobi, KENYA.
-* ✉️  You can contact me at [cynthiabella.obonyo@gmail.com](mailto:cynthiabella.obonyo@gmail.com)
-* 🧠  I'm learning Databases, Java, ReactNative and UI wireframing.
-* 🤝  I'm open to collaborating on Open source and projects.
+* 🍃  Open to collaborating on any interesting Tech projects.
+* 
 
 
 <!---
