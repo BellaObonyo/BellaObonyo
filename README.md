@@ -16,6 +16,11 @@ Just a human fueled by curiosity🤗. Let's chat about Tech.
 - Innovative web3 development projects.
 - Machine learning research and development.
 
+## Reach me on;
+- **Email**: cynthiabella.obonyo@gmail.com
+- **LinkedIn**: [Bella Obonyo](https://www.linkedin.com/in/bellaobonyo)
+- **Twitter**: [@BellaObonyo](https://twitter.com/BellaObonyo)
+
 
 
   
