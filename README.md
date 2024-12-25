@@ -4,12 +4,20 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Software developer && UI Researcher
 ---------------------------------------
 
-Just a human fueled by curiosity, here to share my journey in coding, and development while growing through 
-collaboration and community support.
+Just a human fueled by curiosity🤗. Let's chat about Tech.
 
-* 🤗  Let's chat about Tech
-* 🌍  I'm based in Nairobi, KENYA.
-* 🍃  Open to collaborating on any interesting Tech projects.
+ ##  What I'm working on
+- **Applications and Web Development Projects**: Building responsive and user-friendly web and mobile applications using Django, React, JavaScript, and flutter.
+- **Machine Learning**: Exploring data science and machine learning algorithms with Python, focusing on projects that utilize TensorFlow and PyTorch.
+- **Open Source Contributions**: Actively contributing to open-source projects and collaborating with the developer community.
+
+## Looking to collaborate on
+- Health related Open-source projects.
+- Innovative web3 development projects.
+- Machine learning research and development.
+
+
+
   
 
 
